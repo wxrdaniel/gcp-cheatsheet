@@ -7,3 +7,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Added
 - Add gcloud compute instance [create|delete] commands
 - Add gcloud instance type list command
+- Add gcloud firewall rule create command
+- Add references
